@@ -1,5 +1,5 @@
 # DP-200 - Training - Implementing an Azure Data Solution
-DP-200-Training - Implementing an Azure Data Solution
+Training for Microsoft Official Course (MOC) DP-200 - Implementing an Azure Data Solution
 
 
 ### Samples
