@@ -3,7 +3,7 @@ Training for Microsoft Official Course (MOC) DP-200 - Implementing an Azure Data
 
 
 ### Labs
-* [Azure Cosmos DB Workshop](https://cosmosdb.github.io/labs/)
+* [Azure Cosmos DB Workshop (2 days)](https://cosmosdb.github.io/labs/)
 
 
 <br>
