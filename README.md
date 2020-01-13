@@ -34,4 +34,4 @@ Training for Microsoft Official Course (MOC) DP-200 - Implementing an Azure Data
 * [Professional Azure SQL Database Administration, Second Edition, Ahmad Osama, Packt, 2019-07-11](https://azure.microsoft.com/en-us/resources/professional-azure-sql-database-administration/)
 * [Solve your big data and AI challenges with an Azure Databricks, Microsoft, 2019-03-01](https://azure.microsoft.com/en-us/resources/solve-your-big-data-and-ai-challenges-with-an-azure-databricks/)
 * [Solve your big data and AI challenges with an Azure Databricks, Microsoft, 2018](https://info.microsoft.com/ww-landing-databricks-use-case-ebook.html)
-* [Three Practical Use Cases with Azure Databricks, Databricks Whitepapers](https://pages.databricks.com/3UseCases-AzureDatabricks.html
+* [Three Practical Use Cases with Azure Databricks, Databricks Whitepapers](https://pages.databricks.com/3UseCases-AzureDatabricks.html)
