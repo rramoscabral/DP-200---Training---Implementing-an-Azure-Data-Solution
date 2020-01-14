@@ -2,16 +2,26 @@
 Training for Microsoft Official Course (MOC) DP-200 - Implementing an Azure Data Solution
 
 
-### Labs
+### Microsoft Labs and Workshops
 * [Azure Cosmos DB Workshop (2 days)](https://cosmosdb.github.io/labs/)
+* [Azure Databricks NYC Taxi Workshop](https://github.com/microsoft/Azure-Databricks-NYC-Taxi-Workshop)
 
 
 <br>
 
 
-### Samples
- * [Microsoft Azure Event Hubs samples and data generators](https://github.com/Azure/azure-event-hubs/tree/master/samples)
- * [Microsoft Azure Stream Analytics data samples and data generators](https://github.com/Azure/azure-stream-analytics)
+
+### Microsoft Samples
+ * Azure Event Hubs
+    * [Microsoft Azure Event Hubs samples and data generators](https://github.com/Azure/azure-event-hubs/tree/master/samples)
+ 
+ * Azure Synapse Analytics (formerly SQL DW)
+    * [Load data from Azure blob storage using polybase](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/load-data-from-azure-blob-storage-using-polybase) 
+     * [Load data from Azure blob storage with polybase](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-load-from-azure-blob-storage-with-polybase)
+     * [Load data to Azure SQL Data Warehouse](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/load-data-wideworldimportersdw)
+ 
+ * Azure Stream Analytics
+    * [Microsoft Azure Stream Analytics data samples and data generators](https://github.com/Azure/azure-stream-analytics)
 
 
 <br>
