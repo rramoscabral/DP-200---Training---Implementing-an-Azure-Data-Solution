@@ -14,7 +14,8 @@ Training for Microsoft Official Course (MOC) DP-200 - Implementing an Azure Data
 ### Microsoft Samples
  * Azure Event Hubs
     * [Microsoft Azure Event Hubs samples and data generators](https://github.com/Azure/azure-event-hubs/tree/master/samples)
- 
+ * Azure SQL Database
+    * [Azure SQL Database Code Samples](https://github.com/Azure/azure-sql-database-samples)
  * Azure Synapse Analytics (formerly SQL DW)
     * [Load data from Azure blob storage using polybase](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/load-data-from-azure-blob-storage-using-polybase) 
      * [Load data from Azure blob storage with polybase](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-load-from-azure-blob-storage-with-polybase)
