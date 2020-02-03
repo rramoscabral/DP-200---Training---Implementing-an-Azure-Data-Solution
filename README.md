@@ -2,14 +2,22 @@
 Training for Microsoft Official Course (MOC) DP-200 - Implementing an Azure Data Solution
 
 
-### Microsoft Labs and Workshops
-* [Azure Cosmos DB Workshop (2 days)](https://cosmosdb.github.io/labs/)
-* [Azure Databricks NYC Taxi Workshop](https://github.com/microsoft/Azure-Databricks-NYC-Taxi-Workshop)
+<br>
+
+
+### About the course
 
 
 <br>
 
+### Microsoft Labs and Workshops
+* [Azure Cosmos DB Workshop (2 days)](https://cosmosdb.github.io/labs/)
+* [Azure Databricks NYC Taxi Workshop](https://github.com/microsoft/Azure-Databricks-NYC-Taxi-Workshop)
+* [SQL Server and Azure SQL Labs and Workshops](https://github.com/microsoft/sqlworkshops)
+* [SQL Ground-to-Cloud Workshop](https://github.com/microsoft/sqlworkshops/tree/master/SQLGroundToCloud)
 
+
+<br>
 
 ### Microsoft Samples
  * Azure Event Hubs
@@ -27,8 +35,11 @@ Training for Microsoft Official Course (MOC) DP-200 - Implementing an Azure Data
 
 <br>
 
+### Resources
 
-#### Free eBooks
+<br>
+
+### Free eBooks
 
 * [An Easier Path to the Cloud for Your Legacy SQL Server Data, Microsoft, 2019-07-09](https://azure.microsoft.com/en-us/resources/easier-path-to-cloud-for-legacy-sql-server/)
 * [Azure Data Factory: SSIS in the Cloud, Joshuma Owen, Pragmatic Works, 2018-05-10](https://azure.microsoft.com/en-us/resources/azure-data-factory-ssis-in-the-cloud/)
