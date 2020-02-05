@@ -2,6 +2,9 @@
 
 You can use [Windows 10](https://www.microsoft.com/software-download/windows10) or any Linux Distribution like [CentOS](https://www.centos.org/), [Fedora](https://getfedora.org/), [OpenSuse](https://www.opensuse.org/), [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), [SLES](https://www.suse.com/products/server/) or [Ubuntu](https://ubuntu.com/). 
 
+
+<br>
+
 | Software | Link |
 | --- | --- |
 | Azure CLI | https://docs.microsoft.com/cli/azure/install-azure-cli |
@@ -18,6 +21,6 @@ You can use [Windows 10](https://www.microsoft.com/software-download/windows10) 
 | Visual Studio Code C# Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp |
 
 
-Notes: 
+**Notes:**
  1. The software list is ordered alphabetically and is not ordered by the installation sequence
  2. .NET Core 3 SDK is not 100% compatible with Visual Studio 2017, you can use it by enable "previews of the .NET Core SDK"
