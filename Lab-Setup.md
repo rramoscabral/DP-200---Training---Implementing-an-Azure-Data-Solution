@@ -1,6 +1,6 @@
 # Software list to run the labs 
 
-You can use [Windows 10](https://www.microsoft.com/software-download/windows10) or any Linux Distribution like [CentOS](https://www.centos.org/), [Fedora](https://getfedora.org/), [OpenSuse](https://www.opensuse.org/), [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), [SLES](https://www.suse.com/products/server/) or [Ubuntu](https://ubuntu.com/). 
+Is recomended that you use [Windows 10](https://www.microsoft.com/software-download/windows10) not all software are available for Linux Distribution like [CentOS](https://www.centos.org/), [Fedora](https://getfedora.org/), [OpenSuse](https://www.opensuse.org/), [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), [SLES](https://www.suse.com/products/server/) or [Ubuntu](https://ubuntu.com/). 
 
 
 <br>
@@ -8,10 +8,16 @@ You can use [Windows 10](https://www.microsoft.com/software-download/windows10) 
 | Software | Link |
 | --- | --- |
 | Azure CLI | https://docs.microsoft.com/cli/azure/install-azure-cli |
+| Azure Storage Explorer | https://azure.microsoft.com/en-us/features/storage-explorer/ |
 | Azure PowerShell | https://docs.microsoft.com/powershell/azure/install-az-ps |
-| .NET Core 3 SDK (current/latest)| https://dotnet.microsoft.com/download |
+| Dot NET Core 3 SDK (current/latest)| https://dotnet.microsoft.com/download |
 | Git for Windows | https://git-scm.com/download/win |
-| Power BI Desktop (current/latest) | https://powerbi.microsoft.com/en-us/desktop/ |
+| Microsoft Command Line Utilities for SQL Server (Linux) | https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-tools |
+| Microsoft Command Line Utilities for SQL Server (Windows) | https://docs.microsoft.com/en-us/sql/tools/sqlcmd-utility | 
+| Microsoft SQL Server Management Studio (SSMS) | https://aka.ms/ssmsfullsetup |
+| Microsoft ODBC Driver for SQL Server (Windows, Linux) | https://docs.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server |
+| Power BI Desktop | https://powerbi.microsoft.com/en-us/desktop/ |
+| PowerShell Core (Windows, Linux) | https://github.com/PowerShell/PowerShell/releases |
 | Python 3.7| https://www.python.org/downloads/release/python-370/ |
 | Visual Studio Code | https://code.visualstudio.com/ |
 | Visual Studio Code Azure Account Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account |
