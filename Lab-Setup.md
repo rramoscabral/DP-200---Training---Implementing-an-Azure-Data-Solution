@@ -16,6 +16,7 @@ Is recomended that you use [Windows 10](https://www.microsoft.com/software-downl
 | Microsoft Command Line Utilities for SQL Server (Windows) | https://docs.microsoft.com/en-us/sql/tools/sqlcmd-utility | 
 | Microsoft SQL Server Management Studio (SSMS) | https://aka.ms/ssmsfullsetup |
 | Microsoft ODBC Driver for SQL Server (Windows, Linux) | https://docs.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server |
+| Node.js & npm | https://nodejs.org/en/download/ |
 | Power BI Desktop | https://powerbi.microsoft.com/en-us/desktop/ |
 | PowerShell Core (Windows, Linux) | https://github.com/PowerShell/PowerShell/releases |
 | Python 3.7| https://www.python.org/downloads/release/python-370/ |
