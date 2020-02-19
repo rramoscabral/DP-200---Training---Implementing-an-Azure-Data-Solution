@@ -59,6 +59,6 @@ This course provides students with the skills and knowledge required to successf
 * [Three Practical Use Cases with Azure Databricks, Databricks Whitepapers](https://pages.databricks.com/3UseCases-AzureDatabricks.html)
 
 
-## Videos
+### Videos
  * No information / available when possible
 
