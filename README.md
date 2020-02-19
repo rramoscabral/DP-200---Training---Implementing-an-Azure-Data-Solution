@@ -10,16 +10,17 @@ This course provides students with the skills and knowledge required to successf
 
 <br>
 
-### Microsoft Labs and Workshops
+## Microsoft Labs and Workshops
 * [Azure Cosmos DB Workshop (2 days)](https://cosmosdb.github.io/labs/)
 * [Azure Databricks NYC Taxi Workshop](https://github.com/microsoft/Azure-Databricks-NYC-Taxi-Workshop)
 * [SQL Server and Azure SQL Labs and Workshops](https://github.com/microsoft/sqlworkshops)
 * [SQL Ground-to-Cloud Workshop](https://github.com/microsoft/sqlworkshops/tree/master/SQLGroundToCloud)
 
+ Software list to run the course and workshop labs available [here](./Lab-Setup.md)
 
 <br>
 
-### Microsoft Samples
+## Microsoft Samples
  * Azure Event Hubs
     * [Microsoft Azure Event Hubs samples and data generators](https://github.com/Azure/azure-event-hubs/tree/master/samples)
  * Azure SQL Database
@@ -35,12 +36,11 @@ This course provides students with the skills and knowledge required to successf
 
 <br>
 
-### Resources
+## Resources
 
 <br>
 
 ### Free eBooks
-
 * [An Easier Path to the Cloud for Your Legacy SQL Server Data, Microsoft, 2019-07-09](https://azure.microsoft.com/en-us/resources/easier-path-to-cloud-for-legacy-sql-server/)
 * [Azure Data Factory: SSIS in the Cloud, Joshuma Owen, Pragmatic Works, 2018-05-10](https://azure.microsoft.com/en-us/resources/azure-data-factory-ssis-in-the-cloud/)
 * [Azure Databricks for Data Engineering, Databricks Whitepapers](https://pages.databricks.com/AzureDatabricks-DE.html)
@@ -57,3 +57,8 @@ This course provides students with the skills and knowledge required to successf
 * [Solve your big data and AI challenges with an Azure Databricks, Microsoft, 2019-03-01](https://azure.microsoft.com/en-us/resources/solve-your-big-data-and-ai-challenges-with-an-azure-databricks/)
 * [Solve your big data and AI challenges with an Azure Databricks, Microsoft, 2018](https://info.microsoft.com/ww-landing-databricks-use-case-ebook.html)
 * [Three Practical Use Cases with Azure Databricks, Databricks Whitepapers](https://pages.databricks.com/3UseCases-AzureDatabricks.html)
+
+
+## Videos
+ * No information / available when possible
+
